@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1em;
+} 
+
+.wrapper {
+    margin: 100px auto 0;
+    max-width: 800px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 7px 10px 6px #ccc;
+    padding: 89px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+div.education ul {
+    list-style: none;
+}
