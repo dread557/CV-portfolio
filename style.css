@@ -20,4 +20,9 @@ h1 {
 
 div.education ul {
     list-style: none;
+    padding-left: 0;
+}
+
+div.education ul li {
+    margin-bottom: 8px;
 }
